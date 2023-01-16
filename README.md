@@ -12,3 +12,13 @@ want to check
  -c CSV, --csv=CSV Write the output log to a csv file: 
 default is to wrote on the shell
 ```
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+## General info
+This project is simple Lorem ipsum dolor generator.
+## Technologies
+Project is created with:
+* Lorem version: 12.3
